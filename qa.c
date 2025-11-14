@@ -1,0 +1,1 @@
+  int something[100] //Crio um arry de 100 posições.
